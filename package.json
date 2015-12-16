@@ -1,0 +1,29 @@
+{
+  "name": "moment-timezone-utils",
+  "version": "0.0.1",
+  "description": "Utility functions for moment-timezone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divvit/moment-timezone-utils.git"
+  },
+  "keywords": [
+    "moment.js",
+    "timezone"
+  ],
+  "author": "Nino Ulsamer <nino@divvit.com> (http://www.divvit.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divvit/moment-timezone-utils/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.4.1"
+  }
+}
