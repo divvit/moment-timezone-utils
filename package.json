@@ -1,6 +1,6 @@
 {
   "name": "@divvit/moment-timezone-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility functions for moment-timezone.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
     "mocha": "^2.3.4"
   },
   "dependencies": {
-    "moment-timezone": "0.5.10"
+    "moment-timezone": "^0.5.10"
   }
 }
